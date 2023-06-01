@@ -28,7 +28,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
- 
+ <img align="right" alt="eu-gif"  height="100" width="100" src="https://cdn.discordapp.com/attachments/1005677720174333995/1113968624357621800/eu.gif">
  
 </div><br>
 
