@@ -24,11 +24,11 @@
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
+  <img align="center" alt="git" height="30" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
+  <img align="center" alt="ts" height="30" width="40" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000">
  <img align="right" alt="eu-gif"  height="100" width="100" src="https://cdn.discordapp.com/attachments/1005677720174333995/1113973005798866976/eu_1.gif">
  
 </div><br>
