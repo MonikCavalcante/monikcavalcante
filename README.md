@@ -6,8 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedora Front-End apaixonada por transformar designs em experiências interativas e envolventes. Com uma sólida formação em desenvolvimento web e uma paixão pelo código limpo e otimizado, estou comprometida em criar soluções de alta qualidade que impulsionem a usabilidade e a satisfação do usuário.
-  
+    Especializada em criar experiências digitais incríveis, sou formada em Sistemas de Informação e minha paixão por design e tecnologia me fizeram a front-end que sou hoje transformando ideias em sites elegantes, funcionais e responsivos. Minha missão é ajudar indivíduos e empresas a se destacarem no mundo digital com soluções personalizadas e inovadoras.
   </p>
   
  
